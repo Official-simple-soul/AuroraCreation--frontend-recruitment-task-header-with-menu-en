@@ -20,7 +20,8 @@ In the `src` folder you will find the task file in `.psd` format. Use it to solv
 
 1. Using HTML and CSS to solve the task.
 2. RWD - use preferred breakpoints.
-3. Mobile first approachment
+3. Mobile first approachment.
+4. The task must be sent as a link to your GitHub repository.
 
 ## What may be included in the solution?
 
