@@ -19,8 +19,8 @@ In the `src` folder you will find the task file in `.psd` format. Use it to solv
 ## What must be included in the solution?
 
 1. Using HTML and CSS to solve the task.
-2. RWD - use mobile-first design.
-3. Task should be sent as a github repository.
+2. RWD - use preferred breakpoints.
+3. Mobile first approachment
 
 ## What may be included in the solution?
 
@@ -63,3 +63,4 @@ The solution should work on the following browser versions:
 6. Code optimization.
 7. Good programming practices.
 8. The page looks the same regardless of the browser.
+9. Mobile first
