@@ -25,7 +25,7 @@ menu.addEventListener('click', function() {
     }
 })
 
-document.addEventListener('click', function(e) {
+window.addEventListener('click', function(e) {
     if (!e.target.closest('.menu')) {
         navBarMenu.classList.remove('show');
         menu.classList.remove('fa-xmark');
