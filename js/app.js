@@ -24,3 +24,12 @@ menu.addEventListener('click', function() {
         menu.classList.add('fa-bars');
     }
 })
+
+document.addEventListener('click', function(e) {
+    if (!e.target.closest('.menu')) {
+        navBarMenu.classList.remove('show');
+        menu.classList.remove('fa-xmark');
+        menu.classList.add('fa-bars');
+    }
+}
+);
